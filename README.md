@@ -1,8 +1,10 @@
 # Gitを操作してみましょう
-## 1, リモートリポジトリからローカルにソースコーどをクローンする
+## 1, リモートリポジトリからローカルにソースコードをクローンする
 
 ```
 $ git clone  https://github.com/masa-4/git_learning.git
+$ cd git_learning
+$ ls -la
 ```
 
 ## 2, 自分の作業ブランチを切ってみましょう
